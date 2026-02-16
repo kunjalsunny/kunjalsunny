@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 💫 About Me
 I build predictive and Generative AI systems that translate complex data into measurable business impact.
 
 With over 3 years of experience across analytics modernization, statistical modeling, and production ML workflows, I specialize in designing end-to-end machine learning pipelines from structured data modeling and feature engineering to evaluation, deployment, and stakeholder communication.
