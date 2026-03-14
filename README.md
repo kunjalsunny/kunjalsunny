@@ -1,14 +1,14 @@
 
 # 💫 About Me
-I build predictive and Generative AI systems that translate complex data into measurable business impact.
+I build NextGenerative Data Analytics Solutions that translate complex data into measurable business impact.
 
-With over 3 years of experience across analytics modernization, statistical modeling, and production ML workflows, I specialize in designing end-to-end machine learning pipelines from structured data modeling and feature engineering to evaluation, deployment, and stakeholder communication.
+I bring 3 years of experience in data analytics, data engineering, and business intelligence. I specialize in analyzing large datasets, building scalable data pipelines, and delivering insights that support operational and strategic decision-making.
 
-My work includes building imbalanced churn prediction models evaluated using ROC-AUC and precision-recall tradeoffs, implementing retrieval-augmented generation systems with evaluation logging and grounding improvements, and modernizing large-scale customer experience analytics to improve KPI integrity and operational decision-making.
+My experience includes analyzing customer and operational data to identify patterns, building dashboards and reports to track key performance indicators, and supporting data-driven decision-making across business teams. I have worked with large-scale datasets to improve data quality, streamline reporting workflows, and ensure reliable analytics for stakeholders.
 
-I bring a strong foundation in experiment design, model validation, and data quality assurance, with hands-on experience deploying solutions using AWS, Docker, and scalable data architectures.
+I bring strong expertise in data cleaning, exploratory analysis, statistical analysis, and data visualization, along with hands-on experience working with modern cloud data platforms and scalable analytics tools.
 
-I am particularly interested in roles where predictive modeling, experimentation, and AI-driven systems directly inform product and operational strategy.
+I am particularly interested in roles where data analysis, reporting, and business intelligence help organizations make informed decisions and optimize performance.
 
 
 
